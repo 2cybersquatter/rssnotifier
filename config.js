@@ -10,4 +10,4 @@ config.whitelist_enabled = 0;
 config.whitelist = [];
 
 // Define feed fetching interval in seconds (default: 5 seconds)
-config.refreshInterval = 5;
+config.refreshInterval = 10000;
