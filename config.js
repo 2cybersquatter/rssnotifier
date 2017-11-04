@@ -2,7 +2,7 @@
 var config = module.exports = {}
 
 // Talk to @BotFather to set up a bot and get the token
-config.token = '478776247:AAEmfgHOu6BflJ0OVkn6AD-cz-bdRSs3ICo';
+config.token = '';
 
 // If whitelist_enabled is set to 1, bot will talk only to the chat IDs
 //  specified in the whitelist array.
